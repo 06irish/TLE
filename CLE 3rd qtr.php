@@ -12,7 +12,7 @@ body {
 
 </style>
     </head>
-<p style="color:#FFA701; font-size:30px">Return to<a href="Index.php.html">homepage</a>
+<p style="color:#FFA701; font-size:30px">Return to<a href="index.php">homepage</a>
 <br> 
 </p>
 
